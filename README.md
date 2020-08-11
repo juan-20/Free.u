@@ -2,4 +2,4 @@
 
 ### Landing Page:
 
-![](/src/Free.u/src/assets/images/readme/landing.gif)
+<img src="/src/assets/images/readme/landing.gif">
